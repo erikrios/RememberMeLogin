@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RememberMeLogin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_hint">Masukkan username</string>
+    <string name="password_hint">Masukkan password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="login_success">Login success!</string>
+</resources>
